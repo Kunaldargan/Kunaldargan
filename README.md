@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 ### Kunal Dargan
 
-### I'm a senior Gradutate Student at Indian Institute of Tecnology, Delhi, India - [IIT D]: https://home.iitd.ac.in/
+### I'm a senior Gradutate Student at Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
 
 <img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kunaldargan&show_icons=true&hide_border=true" />
