@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello World !!! 👋
 
-<!--
+
 **Kunaldargan/Kunaldargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
 ### Kunal Dargan
 
-### I'm a senior Gradutate Student at Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
+### I'm a Masters in Computer Science Student at
+### Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
 
 ![Visitor Count](https://profile-counter.glitch.me/Kunaldargan/count.svg)
 
