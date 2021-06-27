@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ### Let's talk!
 
-[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="anirudh-chakravarthy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
-[<img align="left" alt="anirudh-chakravarthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][https://www.linkedin.com/in/kunaldargan/]
-[<img align="left" alt="anirudhchak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="kunal dargna | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="Kunal dargan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/kunaldargan/)
+[<img align="left" alt="Kunal Dargan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/kunaldargan)
 
 <br/> 
 
