@@ -24,8 +24,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Kunaldargan/count.svg)
 
-# To be done :<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-#Refer : https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 
 ### Skills
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
