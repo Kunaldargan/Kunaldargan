@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning Kotlin, Pytorch, and Tensorflow
 - 👯 I’m looking to collaborate on Computer Vision research problems
 - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: [Official Email](mailto:kunal.dargan@cse.iitd.ac.in) [personal](mailto:kdkunal.94@gmail.com)
+- 💬 Ask me about : Programming Languages
+- 📫 How to reach me : [Official Email](mailto:kunal.dargan@cse.iitd.ac.in) | [Personal](mailto:kdkunal.94@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can speak Spanish and Marathi 
+- ⚡ Fun fact: I can speak Spanish and Marathi and Lots of programming language C, C++, Python, Java, JS, Kotlin, Go, Swift, SAS, Assembly etc
 
 ### ✨ Let's talk! ✨
 
