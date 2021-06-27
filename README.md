@@ -1,9 +1,6 @@
 ### Hello World !!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-
-**Kunaldargan/Kunaldargan** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Kunal Dargan
 
 ### I'm a Masters in Computer Science Student at Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
