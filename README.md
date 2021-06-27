@@ -3,6 +3,12 @@
 
 **Kunaldargan/Kunaldargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Kunal Dargan
+
+### I'm a Masters in Computer Science Student at
+### Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,11 +20,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Let's talk!
 
-### Kunal Dargan
+[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="anirudh-chakravarthy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="anirudh-chakravarthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="anirudhchak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
-### I'm a Masters in Computer Science Student at
-### Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
+<br/> 
 
 ![Visitor Count](https://profile-counter.glitch.me/Kunaldargan/count.svg)
 
