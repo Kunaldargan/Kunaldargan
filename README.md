@@ -19,8 +19,8 @@
 
 ### Let's talk!
 
-[<img align="left" alt="Github.io" width="22px" src="https://img.icons8.com/color/96/000000/thinking-male--v1.png"/>][https://kunaldargan.github.io/]
-[<img align="left" alt="kunal dargna | Gmail" width="22px" src="https://img.icons8.com/office/96/000000/gmail-login.png"/>][kdkunal.94@gmail.com]
+[<img align="left" alt="Github.io" width="22px" src="https://img.icons8.com/color/96/000000/thinking-male--v1.png"/>](https://kunaldargan.github.io/)
+[<img align="left" alt="kunal dargna | Gmail" width="22px" src="https://img.icons8.com/office/96/000000/gmail-login.png"/>](mailto:kdkunal.94@gmail.com)
 [<img align="left" alt="Kunal dargan | LinkedIn" width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png"/>](https://www.linkedin.com/in/kunaldargan/)
 [<img align="left" alt="Kunal Dargan | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>](https://twitter.com/kunaldargan)
 <br/>
