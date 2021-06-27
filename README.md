@@ -2,7 +2,7 @@
 
 
 
-**Kunaldargan/Kunaldargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kunaldargan/Kunaldargan** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Kunal Dargan
 
@@ -13,11 +13,11 @@
 - 👯 I’m looking to collaborate on Computer Vision research problems
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Official Email](mailto:kunal.dargan@cse.iitd.ac.in) [personal](mailto:kdkunal.94@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can speak Spanish and Marathi 
 
-### Let's talk!
+### ✨ Let's talk! ✨
 
 [<img align="left" alt="Github.io" width="22px" src="https://img.icons8.com/color/96/000000/thinking-male--v1.png"/>](https://kunaldargan.github.io/)
 [<img align="left" alt="kunal dargna | Gmail" width="22px" src="https://img.icons8.com/office/96/000000/gmail-login.png"/>](mailto:kdkunal.94@gmail.com)
