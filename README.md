@@ -3,7 +3,7 @@
 
 ### Kunal Dargan
 
-### I'm a Masters in Computer Science Student at Indian Institute of Tecnology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
+### I'm a Masters in Computer Science Student at Indian Institute of Technology, Delhi, India - [IIT D](https://home.iitd.ac.in/)
 
 - 🔭 I’m currently working with IIT Delhi and All India Institute of Medical Sciences(AIIMS) on Endoscopic Surgery Evaluation project
 - 🌱 I’m currently learning Kotlin, Pytorch, and Tensorflow
